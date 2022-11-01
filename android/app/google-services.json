@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "152291836690",
+    "firebase_url": "https://fir-abf5f-default-rtdb.firebaseio.com",
+    "project_id": "fir-abf5f",
+    "storage_bucket": "fir-abf5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152291836690:android:11ed31ab6e86ad0e3b69cb",
+        "android_client_info": {
+          "package_name": "com.arun.integaration.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152291836690-uhtq984o9i90mqjp5qa1096j4klbn0m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arun.integaration.google",
+            "certificate_hash": "796f945b9823e3b85328ce31a2cc24cb2c424937"
+          }
+        },
+        {
+          "client_id": "152291836690-1aii8ktuf5ghva5t6a03a4og5geksr2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy440CU4OAIIxNW92adhwOdkmmYdTYOkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152291836690-1aii8ktuf5ghva5t6a03a4og5geksr2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152291836690:android:2160253b3dd066593b69cb",
+        "android_client_info": {
+          "package_name": "com.geograf.geograf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152291836690-alkeab4smppvskdo8t9v56pk5bqoluuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geograf.geograf",
+            "certificate_hash": "796f945b9823e3b85328ce31a2cc24cb2c424937"
+          }
+        },
+        {
+          "client_id": "152291836690-1aii8ktuf5ghva5t6a03a4og5geksr2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy440CU4OAIIxNW92adhwOdkmmYdTYOkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152291836690-1aii8ktuf5ghva5t6a03a4og5geksr2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
